@@ -1,0 +1,72 @@
+bin/iperf.exe -s -P 0 -i 1 -p 5001 -f m
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.06 MByte (default)
+------------------------------------------------------------
+OpenSCManager failed - Acesso negado. (0x5)
+[400] local 192.168.0.200 port 5001 connected with 192.168.0.100 port 58593
+[ ID] Interval       Transfer     Bandwidth
+[400]  0.0- 1.0 sec  69.9 MBytes   586 Mbits/sec
+[400]  1.0- 2.0 sec  69.8 MBytes   586 Mbits/sec
+[400]  2.0- 3.0 sec  69.9 MBytes   586 Mbits/sec
+[400]  3.0- 4.0 sec  70.0 MBytes   587 Mbits/sec
+[400]  4.0- 5.0 sec  69.9 MBytes   587 Mbits/sec
+[400]  5.0- 6.0 sec  69.7 MBytes   585 Mbits/sec
+[400]  6.0- 7.0 sec  69.8 MBytes   586 Mbits/sec
+[400]  7.0- 8.0 sec  69.8 MBytes   586 Mbits/sec
+[400]  8.0- 9.0 sec  69.9 MBytes   586 Mbits/sec
+[400]  9.0-10.0 sec  69.8 MBytes   586 Mbits/sec
+[400] 10.0-11.0 sec  69.9 MBytes   587 Mbits/sec
+[400] 11.0-12.0 sec  69.8 MBytes   586 Mbits/sec
+[400] 12.0-13.0 sec  69.8 MBytes   586 Mbits/sec
+[400] 13.0-14.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 14.0-15.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 15.0-16.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 16.0-17.0 sec  69.8 MBytes   586 Mbits/sec
+[400] 17.0-18.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 18.0-19.0 sec  69.8 MBytes   586 Mbits/sec
+[400] 19.0-20.0 sec  69.9 MBytes   586 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[400] 20.0-21.0 sec  70.0 MBytes   587 Mbits/sec
+[400] 21.0-22.0 sec  69.8 MBytes   586 Mbits/sec
+[400] 22.0-23.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 23.0-24.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 24.0-25.0 sec  69.8 MBytes   586 Mbits/sec
+[400] 25.0-26.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 26.0-27.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 27.0-28.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 28.0-29.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 29.0-30.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 30.0-31.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 31.0-32.0 sec  69.8 MBytes   585 Mbits/sec
+[400] 32.0-33.0 sec  69.9 MBytes   587 Mbits/sec
+[400] 33.0-34.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 34.0-35.0 sec  69.8 MBytes   586 Mbits/sec
+[400] 35.0-36.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 36.0-37.0 sec  55.0 MBytes   462 Mbits/sec
+[400] 37.0-38.0 sec  62.7 MBytes   526 Mbits/sec
+[400] 38.0-39.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 39.0-40.0 sec  69.8 MBytes   585 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[400] 40.0-41.0 sec  69.8 MBytes   586 Mbits/sec
+[400] 41.0-42.0 sec  69.8 MBytes   586 Mbits/sec
+[400] 42.0-43.0 sec  69.8 MBytes   585 Mbits/sec
+[400] 43.0-44.0 sec  69.8 MBytes   586 Mbits/sec
+[400] 44.0-45.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 45.0-46.0 sec  69.8 MBytes   585 Mbits/sec
+[400] 46.0-47.0 sec  69.8 MBytes   585 Mbits/sec
+[400] 47.0-48.0 sec  69.8 MBytes   586 Mbits/sec
+[400] 48.0-49.0 sec  69.8 MBytes   586 Mbits/sec
+[400] 49.0-50.0 sec  69.7 MBytes   585 Mbits/sec
+[400] 50.0-51.0 sec  69.8 MBytes   586 Mbits/sec
+[400] 51.0-52.0 sec  70.0 MBytes   587 Mbits/sec
+[400] 52.0-53.0 sec  70.0 MBytes   587 Mbits/sec
+[400] 53.0-54.0 sec  69.9 MBytes   587 Mbits/sec
+[400] 54.0-55.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 55.0-56.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 56.0-57.0 sec  70.0 MBytes   587 Mbits/sec
+[400] 57.0-58.0 sec  69.9 MBytes   586 Mbits/sec
+[400] 58.0-59.0 sec  70.0 MBytes   587 Mbits/sec
+[400] 59.0-60.0 sec  69.9 MBytes   587 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[400]  0.0-60.1 sec  4174 MBytes   583 Mbits/sec
